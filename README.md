@@ -14,7 +14,7 @@ Python 3.5.2 with Anaconda3 4.2.0
 |chainer  |2.0.0  |
 |cupy     |1.0.0  |
 |numpy    |1.14   |
-|Pillow   |5.1.0  |
+
 
 
 ## Dataset
@@ -22,12 +22,12 @@ Source: MNIST
 <br>
 Target: MNIST-M
 
-Dataset link:[Mnist2MnistM](https://www.dropbox.com/s/grg991r6bxy51p5/Mnist2MnistM.zip?dl=0)
+Dataset link : [Mnist2MnistM](https://www.dropbox.com/s/grg991r6bxy51p5/Mnist2MnistM.zip?dl=0)
 
 MNIST-M original link(Projects Link) : [http://yaroslav.ganin.net/](http://yaroslav.ganin.net/)
 
 ## Implementation Result
-Validation data : target data (without training).
+Validation data : target data (without Train Data).
 
 |Train Data(Source/Target)|Accuracy(Paper|Accuracy(Impl| 
 |:-----------------------:|:------------:|:-----------:| 
